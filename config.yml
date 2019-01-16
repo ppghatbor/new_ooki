@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: ppghatbor/ooki
+  repo: ppghatbor/new_ooki
 
 media_folder: media_folder
 
